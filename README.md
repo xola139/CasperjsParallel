@@ -1,6 +1,6 @@
 # CasperjsParallel
 Simple ejemplo Scraping utilizando Casperjs, GNU Parallel y Crontab
-
+![ejemplo animado](https://github.com/xola139/CasperjsParallel/blob/master/scrap.gif)
 
 Pre-requisitos.
 - Linux
@@ -11,7 +11,7 @@ Requisitos.
 - Casperjs
 - GNU Parallel
 
-![screenshot](http://i.imgur.com/nylCI4T.png)
+
 
 Instrucciones:
 -----
